@@ -2,7 +2,7 @@
   "name": "Calculadora Mixta",
   "short_name": "CalcM",
   "description": "Menú Principal\nCalculadora de Porcentajes Regla de Tres Convertidor Pulgadas/Centímetros Convertidor Fahrenheit/Celsius Calculadora de Watts Calculadora de Consumo Mensual",
-  "start_url": ".",
+  "start_url": "https://epa22.github.io/Calculadora-Mixta/index.html",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
