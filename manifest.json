@@ -1,22 +1,9 @@
 {
+  "start_url": "Calculadora Mixta",
   "name": "Calculadora Mixta",
-  "short_name": "CalcM",
-  "description": "Menú Principal\nCalculadora de Porcentajes Regla de Tres Convertidor Pulgadas/Centímetros Convertidor Fahrenheit/Celsius Calculadora de Watts Calculadora de Consumo Mensual",
-  "start_url": "https://epa22.github.io/Calculadora-Mixta/index.html",
-  "display": "standalone",
-  "background_color": "#000000",
   "theme_color": "#000000",
-  "orientation": "portrait",
-  "icons": [
-    {
-      "src": "icon-192x192.png",
-      "sizes": "192x192",
-      "type": "image/png"
-    },
-    {
-      "src": "icon-512x512.png",
-      "sizes": "512x512",
-      "type": "image/png"
-    }
-  ]
+  "background_color": "#000000",
+  "short_name": "CalcM",
+  "description": "HOLA",
+  "lang": "es"
 }
